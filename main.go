@@ -19,7 +19,7 @@ func random(max int, size int) {
 //шаг	
 	MyStop := 0
 	//MyStavka_B := MyStavka * 1.5
-	MyStavka := []float64{10.0, 20.0, 40.0, 80.0, 160.0, 320.0, 640.0, 1280.0, 2550.0}
+	MyStavka := []float64{10.0, 25.0, 45.0, 80.0, 160.0, 320.0, 640.0, 1280.0, 2550.0}
 	//p := []int{2, 3, 5, 7, 11, 13}
 	
 	
